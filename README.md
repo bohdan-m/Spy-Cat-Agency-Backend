@@ -74,7 +74,7 @@ Server will start at: `http://localhost:8000`
 
 ## 7. Postman collection
 
-You can find all endpoints in the `[postman/SpyCatAgency.postman_collection.json](https://www.postman.com/bohdanmatvieiev1-9415816/spy-cat-agency/collection/51164177-7a22163f-f7e0-40bb-bfa6-6c90fa1c75d4/?action=share&creator=51164177)`.
+You can find all endpoints in the [postman/SpyCatAgency.postman_collection.json](https://www.postman.com/bohdanmatvieiev1-9415816/spy-cat-agency/collection/51164177-7a22163f-f7e0-40bb-bfa6-6c90fa1c75d4/?action=share&creator=51164177).
 Import it into Postman to test all API calls.
 
 ---
