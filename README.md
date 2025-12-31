@@ -21,7 +21,6 @@ It provides **CRUD operations for Spy Cats** and **Missions / Targets**.
 
 ```bash
 git clone https://github.com/bohdan-m/Spy-Cat-Agency-Backend/tree/main
-cd backend
 ```
 
 ### 2. Create and activate virtual environment
